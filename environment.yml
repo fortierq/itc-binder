@@ -3,5 +3,7 @@ name: itc
 dependencies:
   - numpy
   - matplotlib
+  - scipy
+  - sympy
   - pip:
     - nbgitpuller
