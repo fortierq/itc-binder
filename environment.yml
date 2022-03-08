@@ -5,5 +5,6 @@ dependencies:
   - matplotlib
   - scipy
   - sympy
+  - pandas
   - pip:
     - nbgitpuller
